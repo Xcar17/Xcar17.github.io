@@ -31,36 +31,36 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethics in Digital Data Gathering](/pdf/Paper-1.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: Object-Oriented Programming (CSCI 325-401)**  
+-   **Grade: 100%**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Ethical Concerns Regarding Software Intellectual Property](/pdf/Paper-2.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: Principles Of Cybersecurity (CSCI 405-40)** 
+-   **Grade: 100%**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Copyright and Licensing in Computer Science](/pdf/Paper-3.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: Copyright and Licensing in Computer Science (CSCI 405-40)** 
+-   **Grade: 100%**
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Monster.com Data Breach](/pdf/presentation-1.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: Survey Of Scripting Languages (CSCI 301-61)** 
+- **Grade: 100%**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Target Data Breach](/pdf/presentation-2.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: Principles Of Cybersecurity (CSCI 405-40)** 
+- **Grade: 100%**
 
 ---
 
