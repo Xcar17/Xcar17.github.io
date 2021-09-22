@@ -7,9 +7,9 @@ description: > # your text below (remove <br /> elements if you don't need line 
   In partial fulfillment of the requirements for the degree of
   Bachelor of Science in Cybersecurity (class of 2022)
   <br /><br />
-  <a href="Xcar17.github.io/pdf/RESUME.pdf">View My Resume</a>
+  <a href="https://github.com/Xcar17/Xcar17.github.io/tree/master/pdf/RESUME.pdf">View My Resume</a> #STOPPED WORKING FOR SOME REASON
   <br /><br />
-  <a href="www.linkedin.com/in/cro17">View My LinkedIn Profile</a>
+  <a href="www.linkedin.com/in/cro17">View My LinkedIn Profile</a> #STOPPED WORKING FOR SOME REASON
 repository: "Xcar17/Xcar17.github.io"
 github_username:  Xcar17 # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
