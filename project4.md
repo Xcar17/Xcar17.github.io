@@ -15,7 +15,7 @@ Website created as part of the Applied Networking Final Project. The website con
 
 ## How to compile / run the program
 
-The Website is currently running on an Apache server. Access to the website is limited to a local connectiong. To request access to the website, please contact me to request a meeting.
+The Website is currently running on an Apache server. Access to the website is limited to a local connection. To request access to the website, please contact me to request a meeting.
 
 
 ## UI Design
