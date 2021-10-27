@@ -6,7 +6,7 @@ Movie Ticket Booking System
 -   **Class:** Object-Oriented Programming (CSCI 335)
 -   **Grade:** 100%
 -   **Language(s):** Java
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/Xcar17/Movie-Ticket-App)  
+-   **Source Code Repository:** [Movie Ticket Booking System](https://github.com/Xcar17/Movie-Ticket-App)  
     (Please [email me](mailto:cror93@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
