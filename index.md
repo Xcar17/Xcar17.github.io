@@ -12,9 +12,9 @@ Programming Projects
 ![Movie Ticket Booking System](/Ticket-Images/greeting.JPG)
 
 ---
-### [Movie Ticket GUI System | CSCI 434](project2)
+### [Movie Ticket Booking System with GUI | CSCI 434](project2)
 
-![Movie Ticket GUI System](/HCI Movie/greeting.JPG)
+![Movie Ticket Booking System with GUI](/HCI Movie/greeting.JPG)
 
 ---
 ### [Guessing Game | CSCI 301](project3)
