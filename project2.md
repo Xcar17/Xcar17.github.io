@@ -11,69 +11,64 @@ Movie Ticket Booking System with GUI
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This application is a redesigned version of my CSCI 335 project. The application is used to interact with customers who are looking to purchase movie tickets. The new features of this program allow customers to choose their desired film, time of day, number of tickets, and seating options. Another notable new feature is the ability to search for the most economical movie ticket prices in the area. Once selections are made the customer will be able to purchase and print their ticket. This new application includes a graphical user interface, as the previous version uses a command line-based interface. 
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python setup.py
-```
+Download and run the MovieProject.exe file.
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+
 
 ![screenshot](/HCI Movie/movies.JPG)
-Fig 1. The launch screen
+Fig 1. Screen Of Currently Showing Movies
 
 ![screenshot](/HCI Movie/days.JPG)
-Fig 2. Example output after input is processed.
+Fig 2. Screen Of Available Showing Days
 
 ![screenshot](/HCI Movie/time.JPG)
-Fig 3. Feedback when an error occurs.
+Fig 3. Screen Of Available Showing Times
 
 ![screenshot](/HCI Movie/prices.JPG)
-Fig 4. The launch screen
+Fig 4. Screen Of Available Showing Prices
 
 ![screenshot](/HCI Movie/selecttickets.JPG)
-Fig 5. Example output after input is processed.
+Fig 5. Selecting Tickets Screen
 
 ![screenshot](/HCI Movie/seats.JPG)
-Fig 6. Feedback when an error occurs.
+Fig 6. Selecting Seats Screen
 
 ![screenshot](/HCI Movie/review.JPG)
-Fig 7. The launch screen
+Fig 7. Transaction Review Screen
 
 ![screenshot](/HCI Movie/payment.JPG)
-Fig 8. Example output after input is processed.
+Fig 8. Payment Option Screen
 
 ![screenshot](/HCI Movie/paymentinfo.JPG)
-Fig 9. Feedback when an error occurs.
+Fig 9. Payment Information Screen
 
 ![screenshot](/HCI Movie/receipt.JPG)
-Fig 10. Example output after input is processed.
+Fig 10. Transaction Receipt Screen
 
 ![screenshot](/HCI Movie/tickets.JPG)
-Fig 11. Feedback when an error occurs.
+Fig 11. Printed Tickets Screen
 
 ![screenshot](/HCI Movie/noinfo.JPG)
-Fig 12. The launch screen
+Fig 12. No Payment Information Error
 
 ![screenshot](/HCI Movie/noseats.JPG)
-Fig 13. Example output after input is processed.
+Fig 13. No Seats Selected Error
 
 ![screenshot](/HCI Movie/notickets.JPG)
-Fig 14. Feedback when an error occurs.
+Fig 14. No Tickets Selected Error
 
 ![screenshot](/HCI Movie/exit.JPG)
-Fig 15. Feedback when an error occurs.
+Fig 15. Exit Prompt
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+This application does not represent the full release. The application was designed as a prototype to conduct a Usability, and thus it may contain some bugs.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
