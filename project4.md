@@ -3,28 +3,24 @@
 Project 4 Title
 ===============
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** Applied Networking (CSCI 332)
+-   **Grade:**  100%
+-   **Language(s):** HTML, PHP, CSS
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/Xcar17/Website)  
+    (Please [email me](mailto:cror93@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Website created as part of the Applied Networking Final Project. The website contains all of the labs created throughout the semester. Labs consisted of performing various HTML, PHP, and CSS tasks. These tasks are meant to strengthen the student’s website development skills.
 
-## How to compiles / run the program
+## How to compile / run the program
 
-How to compile (if applicable) and run the project.
+To request access to the website, please email contact me.
 
-```bash
-cd ./project
-python setup.py
-```
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+In order to develop the UI design of the website, HTML and CSS was used.
 
 ![screenshot](images/dummy_thumbnail.jpg)
 Fig 1. The launch screen
