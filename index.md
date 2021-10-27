@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:CROcasioRodriguez@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Ticket Booking System | CSCI 301](project1)
+### [Ticket Booking System | CSCI 335](project1)
 
 ![Ticket Booking System](/Ticket-Images/java1.JPG)
 
