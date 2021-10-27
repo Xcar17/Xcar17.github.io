@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 4 Title
+My Website
 ===============
 
 -   **Class:** Applied Networking (CSCI 332)
