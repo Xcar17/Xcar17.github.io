@@ -5,7 +5,7 @@ Project 4 Title
 
 -   **Class:** Applied Networking (CSCI 332)
 -   **Grade:**  100%
--   **Language(s):** HTML, PHP, CSS
+-   **Language(s):** HTML, PHP and CSS
 -   **Source Code Repository:** [My-Website](https://github.com/Xcar17/Website)  
     (Please [email me](mailto:cror93@gmail.com?subject=GitHub%20Access) to request access.)
 
