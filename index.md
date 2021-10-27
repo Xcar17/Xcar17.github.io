@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Ticket Booking System | CSCI 301](project1)
 
-![Ticket Booking System](/Ticket-Images/java1.jpg)
+![Ticket Booking System](/Ticket-Images/java1.JPG)
 
 ---
 ### [Project 2 Title | CSCI 315](project2)
