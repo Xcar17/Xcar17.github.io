@@ -22,9 +22,9 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project4)
+### [My Website | CSCI 332](project4)
 
-![Project 4 Thumbnail Name](https://github.com/Xcar17/Xcar17.github.io/blob/master/Website/Website1.JPG)
+![My Website](https://github.com/Xcar17/Xcar17.github.io/blob/master/Website/Website1.JPG)
 
 ---
 
