@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:CROcasioRodriguez@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:cror93@gmail.com?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Movie Ticket Booking System | CSCI 335](project1)
@@ -17,9 +17,9 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project3)
+### [Guessing Game | CSCI 301](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Guessing Game](/Guessing Game/main.JPG)
 
 ---
 ### [My Website | CSCI 332](project4)
