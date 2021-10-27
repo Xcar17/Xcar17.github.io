@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [My Website | CSCI 332](project4)
 
-![My Website](https://github.com/Xcar17/Xcar17.github.io/blob/master/Website/Website1.JPG)
+![My Website](/Website/Website1.JPG)
 
 ---
 
