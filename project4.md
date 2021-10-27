@@ -25,7 +25,7 @@ In order to develop the UI design of the website, HTML and CSS was used.
 ![screenshot](/Website/Website1.JPG)
 Fig 1. Home Screen Top
 
-![screenshot](https://github.com/Xcar17/Xcar17.github.io/blob/master/Website/Website2.JPG)
+![screenshot](Website/Website2.JPG)
 Fig 2. Home Screen Bottom
 
 ![screenshot](https://github.com/Xcar17/Xcar17.github.io/blob/master/Website/myfamily.JPG)
