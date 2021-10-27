@@ -22,7 +22,7 @@ To request access to the website, please contact me to request a meeting.
 
 In order to develop the UI design of the website, HTML and CSS was used.
 
-![screenshot](https://github.com/Xcar17/Xcar17.github.io/blob/master/Website/Website1.JPG)
+![screenshot](/Website/Website1.JPG)
 Fig 1. Home Screen Top
 
 ![screenshot](https://github.com/Xcar17/Xcar17.github.io/blob/master/Website/Website2.JPG)
