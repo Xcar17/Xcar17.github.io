@@ -15,7 +15,7 @@ Website created as part of the Applied Networking Final Project. The website con
 
 ## How to compile / run the program
 
-To request access to the website, please contact me to request a meeting.
+The Website is currently running on an Apache server. Access to the website is limited to a local connectiong. To request access to the website, please contact me to request a meeting.
 
 
 ## UI Design
@@ -40,7 +40,7 @@ Fig 5. My Family Videos
 
 ## 3. Additional Considerations
 
-Website can only be accessed locally.
+This project was built early 2019 and some labs were cancelled due to COVID 19 restrictions.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
