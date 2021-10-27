@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Project 4 Title | CSCI 332](project4)
 
-![Project 4 Thumbnail Name](https://github.com/Xcar17/Xcar17.github.io/tree/master/Website/Website1.jpg)
+![Project 4 Thumbnail Name](https://github.com/Xcar17/Xcar17.github.io/tree/master/Website/Website1.JPG)
 
 ---
 
