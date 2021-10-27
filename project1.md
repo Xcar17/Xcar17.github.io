@@ -3,24 +3,19 @@
 Movie Ticket Booking System
 ===============
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** Object-Oriente Programming (CSCI 335)
+-   **Grade:** 100%
+-   **Language(s):** Java
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/Xcar17/Movie-Ticket-App)  
+    (Please [email me](mailto:cror93@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This program is designed to interact with customers to produce a movie ticket. The features of this program allows customers to choose their desired film, time of day, and seating option. Once selections are made the customer will be able to purchase and print their ticket. Aditionally, the program will allow an employee with designated rights to manage the available movies, times, seating, and ticket prices. 
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python setup.py
-```
+Download file and run MyDriver.java file with NetBeans.
 
 ## UI Design
 
@@ -42,7 +37,7 @@ Fig 4. Completing Transaction with Errors
 
 ## 3. Additional Considerations
 
-This Movie Ticket Booking application was built using Java version 8 on a Windows system.
+This Movie Ticket Booking application was developed on Neatbeans using Java version 8 on a Windows system.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
