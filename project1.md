@@ -3,7 +3,7 @@
 Movie Ticket Booking System
 ===============
 
--   **Class:** Object-Oriente Programming (CSCI 335)
+-   **Class:** Object-Oriented Programming (CSCI 335)
 -   **Grade:** 100%
 -   **Language(s):** Java
 -   **Source Code Repository:** [features/mastering-markdown](https://github.com/Xcar17/Movie-Ticket-App)  
@@ -15,7 +15,7 @@ This program is designed to interact with customers to produce a movie ticket. T
 
 ## How to compiles / run the program
 
-Download file and run MyDriver.java file with NetBeans.
+Download file and run MyDriver.java file on NetBeans application.
 
 ## UI Design
 
