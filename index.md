@@ -33,17 +33,17 @@ Ethics Papers
 
 ### [Ethics in Digital Data Gathering](/pdf/Paper-1.pdf)
 
--   **Class: Object-Oriented Programming (CSCI 325-401)**  
+-   **Class: Object-Oriented Programming (CSCI 325)**  
 -   **Grade: 100%**
 
 ### [Ethical Concerns Regarding Software Intellectual Property](/pdf/Paper-2.pdf)
 
--   **Class: Principles Of Cybersecurity (CSCI 405-40)** 
+-   **Class: Principles Of Cybersecurity (CSCI 405)** 
 -   **Grade: 100%**
 
 ### [Copyright and Licensing in Computer Science](/pdf/Paper-3.pdf)
 
--   **Class: Copyright and Licensing in Computer Science (CSCI 405-40)** 
+-   **Class: Copyright and Licensing in Computer Science (CSCI 405)** 
 -   **Grade: 100%**
 
 ---
@@ -53,13 +53,13 @@ Presentations
 
 ### [Monster.com Data Breach](/pdf/presentation-1.pdf)
 
-- **Class: Survey Of Scripting Languages (CSCI 301-61)** 
+- **Class: Survey Of Scripting Languages (CSCI 301)** 
 - **Grade: 100%**
 
 
 ### [Target Data Breach](/pdf/presentation-2.pdf)
 
-- **Class: Principles Of Cybersecurity (CSCI 405-40)** 
+- **Class: Principles Of Cybersecurity (CSCI 405)** 
 - **Grade: 100%**
 
 ---
