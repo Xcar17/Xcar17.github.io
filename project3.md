@@ -11,30 +11,29 @@ Guessing Game
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This script created in Perl is a Guessing Game where the user attempts to guess a number. The script generates a random positive number from a range of values determined by the user. The user will be given an option to quit the game after the first failed guess and after every third failed guessing attempt. If the user decides to quit the game without correctly guessing the number, the correct number will be printed to the screen before exiting the game.
 
-## How to compiles / run the program
+## How to compile / run the program
 
-How to compile (if applicable) and run the project.
+Download and install perl on your system. Then you must find the file on your terminal. After locating the file enter the following:
 
-```bash
-cd ./project
-python setup.py
+```
+perl projectOne.pl
 ```
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+This script uses a command line interface. Users are prompted to enter a number that corresponds with an available selection. All available options are displayed to the user at all times. This was done in order to prevent users from having to memorize commands in order to use the application.
 
 ![screenshot](/Guessing Game/guessing1.JPG)
-Fig 1. The launch screen
+Fig 1. Successfully Guessing the Number
 
 ![screenshot](/Guessing Game/losing.JPG)
-Fig 2. Example output after input is processed.
+Fig 2. Failing to guess the Number
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+N/a
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
