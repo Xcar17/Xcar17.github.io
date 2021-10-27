@@ -20,7 +20,7 @@ The Website is currently running on an Apache server. Access to the website is l
 
 ## UI Design
 
-In order to develop the UI design of the website, HTML and CSS was used.
+In order to develop the UI design of the website, HTML, CSS, and some PHP were used.
 
 ![screenshot](/Website/Website1.JPG)
 Fig 1. Home Screen Top
