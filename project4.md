@@ -22,19 +22,19 @@ To request access to the website, please contact me to request a meeting.
 
 In order to develop the UI design of the website, HTML and CSS was used.
 
-![screenshot](Website/Website1.jpg)
+![screenshot](https://github.com/Xcar17/Xcar17.github.io/blob/master/Website/Website1.JPG)
 Fig 1. Home Screen Top
 
-![screenshot](Website/Website2.jpg)
+![screenshot](https://github.com/Xcar17/Xcar17.github.io/blob/master/Website/Website2.JPG)
 Fig 2. Home Screen Bottom
 
-![screenshot](Website/myfamily.jpg)
+![screenshot](https://github.com/Xcar17/Xcar17.github.io/blob/master/Website/myfamily.JPG)
 Fig 3. My Family Section
 
-![screenshot](Website/Mygallery.jpg)
+![screenshot](https://github.com/Xcar17/Xcar17.github.io/blob/master/Website/Mygallery.JPG)
 Fig 4. My Family Gallery
 
-![screenshot](Website/myfamilyvideos.jpg)
+![screenshot](https://github.com/Xcar17/Xcar17.github.io/blob/master/Website/myfamilyvideos.JPG)
 Fig 5. My Family Videos
 
 
