@@ -23,7 +23,7 @@ To view the website, open the internet browser of your choice and enter "localho
 
 ## UI Design
 
-Once logged into the website, the homepage (See Figure 1) provides a welcome message with some information about me. It also provides a horizontal navagation bar to view the various labs created throughout the semester. If you scroll down on the homepage you will be able to learn about me and my family (See Figure 2). At the bottom of the homepage you will see another horizontal navigation bar that lets you find out more about my family, my family picture (My Gallery), and my home videos (See Figure 2).
+Once logged into the website, the homepage (See Figure 1) provides a welcome message with some information about me. It also provides a horizontal navagation bar to view the various labs created throughout the semester. If you scroll down on the homepage you will be able to learn about me and my family (See Figure 2). At the bottom of the homepage you will see another horizontal navigation bar that lets you find out more about my family, my family pictures (My Gallery), and my home videos (See Figure 2).
 
 By clicking on "My Family" you will be able to see a picture of my wonderful family and you can learn more about us (See Figure 3). If you select the "My Gallery" link, you will be greeted with more pictures of my family and I (See Figure 4). Lastly, you can click on the "My Home Videos" link and you will be greeted with a video of my son when he was learning how to walk (See Figure 5). Notice that the bottom navigational bar changes based on the page that you are on (See Figures 2-4). 
 
