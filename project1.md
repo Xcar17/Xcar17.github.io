@@ -39,6 +39,5 @@ Fig 4. Completing Transaction with Errors
 
 This Movie Ticket Booking application was developed on Neatbeans using Java version 8 on a Windows system.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
