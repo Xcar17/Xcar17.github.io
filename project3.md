@@ -35,6 +35,5 @@ Fig 2. Failing to guess the Number
 
 N/a
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
