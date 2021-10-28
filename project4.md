@@ -15,8 +15,11 @@ Website created as part of the Applied Networking Final Project. The website con
 
 ## How to compile / run the program
 
-The Website is currently running on an Apache server. Access to the website is limited to a local connection. To request access to the website, please contact me to request a meeting.
+The Website is currently running on an Apache server. To install an Apache server please follow [this](https://www.ionos.com/digitalguide/server/tools/xampp-tutorial-create-your-own-local-test-server/) guide on how to install and setup XAMMP and your own Apache server.
 
+Once you have downloaded and setup your apache server, you may clone the repository and copy it to your Xampp directory (C:\xampp). Make sure to replace the default htdocs files with the one provided in my repository. After the source code is in your htdocs, you must start your Apache server. To do this type 'Xampp control panel" in your search bar and opent the Xampp Control Panel application. Once it has loaded, look for the Apache service and press the start button. Now your Apache server should be running.
+
+To view the website, open the internet browser of your choice and enter "localhost" in the browser's address bar. You should now be able to see the website.
 
 ## UI Design
 
