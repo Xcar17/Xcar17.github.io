@@ -70,6 +70,4 @@ Fig 15. Exit Prompt
 
 This application does not represent the full release. The application was designed as a prototype to conduct a Usability, and thus it may contain some bugs.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 [Back to Portfolio](./)
