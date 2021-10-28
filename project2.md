@@ -3,7 +3,7 @@
 Movie Ticket Booking System with GUI
 ===============
 
--   **Class:** Human-Computer Interaction 
+-   **Class:** Human-Computer Interaction (CSCI 434)
 -   **Grade:** TBD
 -   **Language(s):** Visual Basic
 -   **Source Code Repository:** [HCI-Movie-Ticket](https://github.com/Xcar17/Portfolio-HCI-Movie-Ticket)  
