@@ -42,6 +42,4 @@ Fig 5. My Family Videos
 
 This project was built early 2019 and some labs were cancelled due to COVID 19 restrictions.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 [Back to Portfolio](./)
