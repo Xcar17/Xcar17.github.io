@@ -15,7 +15,11 @@ This program is designed to interact with customers to produce a movie ticket. T
 
 ## How to compiles / run the program
 
-Download file and run MyDriver.java file on NetBeans application.
+In order to run this program you need to install a Java Development Kit (JDK) which includes the Java runtime needed to run this application. You may download a Java JDK by following [this link](https://www.oracle.com/java/technologies/downloads/). After you download the Java JDK, please visit [this link](https://docs.oracle.com/javase/7/docs/webnotes/install/windows/jdk-installation-windows.html) for instructions on how to install the JDK and how to setup your Java enviroment. The instructions also include a very helpful troubleshooting guide. After the Java JDK is installed and setup you can download the TicketBookingSystem directory from the repository. You are now ready to compile and run the program.
+
+- In order to compile the program run the Command Prompt and open the "src" directory inside of the "TicketBookingSystem" directory. Ex. If your TicketBookingSystem directory is in the Downloads directory the command will look like this "cd Downloads/TicketBookingSystem/src". 
+- Once you are in the "src" directory, enter "javac csu/csci325/MyDriver.java" to compile the program.
+- Once the program has been compiled you may enter "java csu.csci325.MyDriver" to run the program.
 
 ## UI Design
 
