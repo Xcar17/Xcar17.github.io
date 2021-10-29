@@ -12,7 +12,7 @@ Movie Ticket Booking System
 
 ## Project description
 
-This program is designed to interact with customers to produce a movie ticket. The features of this program allows customers to choose their desired film, time of day, and payment option. Once selections are made the customer will be able to purchase and print their ticket. Aditionally, the program will allow an employee with designated rights to manage the available movies, times, seating, and ticket prices. 
+This program is designed to interact with customers to produce a movie ticket. The features of this program allows customers to choose their desired film, time of day, and payment option. Once selections are made the customer will be able to purchase and print their ticket. Aditionally, the program will allow an employee with designated rights to make changes to the available showings. 
 
 My contributions included creating and implementing the Greeting, Movie, SelectMovie and SelectTime, MyDriver classes. Additionally, I collaborated with Tyler Poor to validate the input of the ConfirmPayment, Print, and SelectPayment classes. Lastly, I collaborated with Paul to validate input on the EditMovie class.
 
