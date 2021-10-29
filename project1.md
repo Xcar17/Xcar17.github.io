@@ -18,7 +18,7 @@ My contributions included creating and implementing the Greeting, Movie, SelectM
 
 Tyler Poor's work consisted of the design and implementation of the ConfirmPayment, Print, and SelectPayment classes. 
 
-Paul Jonson's  work consisted of the design and implementation of the EditMovieScreen. 
+Paul Jonson's  work consisted of the design and implementation of the EditMovieScreen class. 
 
 ## How to compiles / run the program
 
