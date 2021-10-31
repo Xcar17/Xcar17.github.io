@@ -8,7 +8,7 @@ Movie Ticket Booking System with GUI
 -   **Language(s):** Visual Basic
 -   **Source Code Repository:** [HCI-Movie-Ticket](https://github.com/Xcar17/Portfolio-HCI-Movie-Ticket)  
     (Please [email me](mailto:cror93@gmail.com?subject=GitHub%20Access) to request access.)
--   **Authors:** Carlos Ocasio, Nathan Satterfield
+-   **Authors:** Carlos Ocasio and Nathan Satterfield
 
 ## Project description
 
@@ -22,11 +22,11 @@ Nathan's contribution includes creating and implementing the SelectSeats, Review
 
 In order to run this application please download the Visual Studio program. To install Visual Studio please follow the following [Microsoft guide](https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2019). Once you have downloaded Visual Basic, you may download the MovieTicket application release.
 
-To run the application, open the MovieProject.sln with the Visual Basic program. This will build the project and allow you to test and edit the application. To run the project press the Start menu on the top navigation menu (you can also press F5) while the project is open.
+To run the application, open the MovieProject.sln with the Visual Basic program. This will build the project and allow you to test and edit the application. To run the project, press the Start menu on the top navigation menu (you can also press F5) while the project is open.
 
 ## UI Design
 
-The first screen greets the user with a welcome message and it is also used to display important messages about the application. Users can continue to the next screen by clicking on the continue button. The next screen will display the available movies playing in the area (See Figure 1). The user can choose between one of these movies by pressing the continue button. After selecting a movie the user must select a showing day, time and price (See Figures 2-4).
+The first screen greets the user with a welcome message, and it is also used to display important messages about the application. Users can continue to the next screen by clicking on the continue button. The next screen will display the available movies playing in the area (See Figure 1). The user can choose between one of these movies by pressing the continue button. After selecting a movie the user must select a showing day, time and price (See Figures 2-4).
 
 
 ![screenshot](/HCI Movie/movies.JPG)
@@ -41,7 +41,7 @@ Fig 3. Screen Of Available Showing Times
 ![screenshot](/HCI Movie/prices.JPG)
 Fig 4. Screen Of Available Showing Prices
 
-After selecting the ticket prices/location the user is taken to a screen where they must select the number of tickets they wish to purchase. There are two types of tickets, one for adults and one for minors. The users can also see the total cost of the tickets on this screen (See Figure 5). Once the user confirms the amount of tickets they can continue to the next screen by pressing the confirm button. After selecting tickets, the user is taken to the Select Seats screen (See Figure 6). On this screen the user must choose their seating arrangement in order to continue.
+After selecting the ticket prices/location the user is taken to a screen where they must select the number of tickets they wish to purchase. There are two types of tickets, one for adults and one for minors. The users can also see the total cost of the tickets on this screen (See Figure 5). Once the user confirms the amount of tickets, they can continue to the next screen by pressing the confirm button. After selecting tickets, the user is taken to the Select Seats screen (See Figure 6). On this screen the user must choose their seating arrangement in order to continue.
 
 ![screenshot](/HCI Movie/selecttickets.JPG)
 Fig 5. Selecting Tickets Screen
@@ -49,8 +49,8 @@ Fig 5. Selecting Tickets Screen
 ![screenshot](/HCI Movie/seats.JPG)
 Fig 6. Selecting Seats Screen
 
-Once the user has selected their seating arrangement they are asked to review their transaction (See Figure 7). This screen displays all the selections and the total
-cost of the transaction. Users can also change their prior selections by pressing the edit buttons on the right of the screen (See Figure 7). After confirming the transaction the user must select their preffered payment method and enter payment information that is valid. (See Figures 8-9). Once the payment information has been accepted a reciept will be printed to the screen (See Figure 10). In order to continue the user must confirm that they have reviewed the receipt. Finally, the users tickets will be printed to the screen (See Figues 11). Once the user has confirmed that they received the tickets, they can press the continue button and the transaction will be finalized.
+Once the user has selected their seating arrangement, they are asked to review their transaction (See Figure 7). This screen displays all the selections and the total
+cost of the transaction. Users can also change their prior selections by pressing the edit buttons on the right of the screen (See Figure 7). After confirming the transaction, the user must select their preferred payment method and enter payment information that is valid. (See Figures 8-9). Once the payment information has been accepted a receipt will be printed to the screen (See Figure 10). In order to continue the user must confirm that they have reviewed the receipt. Finally, the user's tickets will be printed to the screen (See Figues 11). Once the user has confirmed that they received the tickets, they can press the continue button and the transaction will be finalized.
 
 ![screenshot](/HCI Movie/review.JPG)
 Fig 7. Transaction Review Screen
