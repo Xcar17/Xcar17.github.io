@@ -9,7 +9,7 @@ Movie Ticket Booking System with GUI
 -   **Source Code Repository:** [HCI-Movie-Ticket](https://github.com/Xcar17/Portfolio-HCI-Movie-Ticket)  
     (Please [email me](mailto:cror93@gmail.com?subject=GitHub%20Access) to request access.)
 -   **Authors:** Carlos Ocasio, Nathan Satterfield
--   
+
 ## Project description
 
 This application is a redesigned version of my CSCI 335 project. The application is used to interact with customers who are looking to purchase movie tickets. The new features of this program allow customers to choose their desired film, time of day, number of tickets, and seating options. Another notable new feature is the ability to search for the most economical movie ticket prices in the area. Once selections are made the customer will be able to purchase and print their ticket. This new application includes a graphical user interface, as the previous version uses a command line-based interface. 
