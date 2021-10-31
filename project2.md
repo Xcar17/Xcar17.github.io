@@ -20,7 +20,7 @@ Nathan's contribution includes creating and implementing the SelectSeats, Review
 
 ## How to compiles / run the program
 
-In order to run this application please download the Visual Studio program. To install Visual Studio please follow the following [Microsoft guide] (https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2019). Once you have downloaded Visual Basic, you may download the MovieTicket application release.
+In order to run this application please download the Visual Studio program. To install Visual Studio please follow the following [Microsoft guide](https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2019). Once you have downloaded Visual Basic, you may download the MovieTicket application release.
 
 To run the application, open the MovieProject.sln with the Visual Basic program. This will build the project and allow you to test and edit the application. To run the project press the Start menu on the top navigation menu (you can also press F5) while the project is open.
 
